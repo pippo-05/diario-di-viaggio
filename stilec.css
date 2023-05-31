@@ -1,0 +1,58 @@
+<style type="text/css">
+	body{
+		margin: 0;
+		font-family: Arial;
+		background-color: beige;
+	}
+	header{
+		padding-top: 2px;
+		padding-bottom: 50px;
+		background-color:#1E90FF;
+		color: white;
+		text-align: center;
+		font-size: 40pt;
+		font-family: "Palatino";
+		height: 150px;
+	}
+	a:link{
+		color: #1E90FF;	
+	}
+	a:visited{
+		color: #CD853F;
+	}
+
+	a:hover{
+		color: #0000FF;
+	}
+	span{
+		color: white;
+	}
+	section{
+		padding: 0.1em;
+		font-family:"Palatino";
+		line-height: 1.5;
+		height: 590px;
+		font-size: 15pt;
+		
+	}
+p{
+	margin-left: 15px;
+}
+footer{
+	text-align: center;
+	font-family: sans-serif;
+	background-color: #1E90FF;
+	padding: 0.1px;
+}
+img{
+	padding-top: 10%;
+	padding-left: 15%;
+	width: 70%;
+	
+}
+table{
+	line-height: 1,5pt;
+}
+td{
+	width: 30px;
+}

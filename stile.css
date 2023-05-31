@@ -1,0 +1,45 @@
+body{
+		margin: 0;
+	}
+	header{
+		padding-top: 2px;
+		padding-bottom: 2px;
+		background-color:#1E90FF;
+		color: white;
+		text-align: center;
+		font-size: 40pt;
+		font-family: "Palatino";
+		height: 150px;
+	}
+	section{
+		position: inherit;
+		padding: 0.1em;
+		font-family: Palatino;
+		line-height: 1.5;
+		height: 260px;
+		font-size: 15pt;
+		
+	}
+a:link{
+		color: #1E90FF;	
+	}
+	a:visited{
+		color: #CD853F;
+	}
+
+	a:hover{
+		color: #0000FF;
+	}
+p{
+	margin-left: 15px;
+}
+footer{
+	text-align: center;
+	font-family: sans-serif;
+	background-color: #1E90FF;
+	padding: 0.1px;
+}
+img{
+	height: 300px;
+	margin-left: 10%;
+}
